@@ -5,8 +5,8 @@ START TRANSACTION;
 SET time_zone = "+00:00";
 
 
-CREATE DATABASE IF NOT EXISTS `videotube` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `videotube`;
+CREATE DATABASE IF NOT EXISTS `playtube` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+USE `playtube`;
 
 
 
