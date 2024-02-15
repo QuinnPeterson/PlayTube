@@ -62,6 +62,28 @@ playtube.sql
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
+
+##### VIDEOS IN ACTION
+<br>
+## Like and comment and subscribe
+
+https://github.com/QuinnPeterson/PlayTube/assets/63170635/c07c7e0f-7149-4ce4-8b67-5680537d7116
+
+## Login register and profile edit
+
+https://github.com/QuinnPeterson/PlayTube/assets/63170635/8737fb4e-125f-4587-a225-3a25e47c4537
+
+## Trending and search
+
+https://github.com/QuinnPeterson/PlayTube/assets/63170635/9bdf98c8-6031-471d-b2fa-198d4b1e234d
+
+## Video upload and Edit
+
+https://github.com/QuinnPeterson/PlayTube/assets/63170635/6a490999-8e4a-43bc-a855-ec1be0f245a9
+
+
+
+
 ## Home page
 
 <img alt="header" src="https://github.com/QuinnPeterson/QuinnPeterson/blob/main/projects/Playtube/Screenshot%20(6).png?raw=true" class="Box-sc-g0xbh4-0 kzRgrI">
